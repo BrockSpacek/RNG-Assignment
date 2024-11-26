@@ -1,6 +1,10 @@
 let firstName = document.getElementById("firstName");
 let lastName = document.getElementById("lastName");
 let summonPirate = document.getElementById("summonPirate");
+let displayList = document.getElementById("displayList");
+
+maxPirates = 5;
+crewList = [];
 
 
 
@@ -33,5 +37,10 @@ summonPirate.addEventListener('click', () => {
         firstName.innerText = randomPirate.firstName
         lastName.innerText = randomPirate.lastName
         
+        crewList.push(randomPirate)
+
+        let listItem = document.createElement('ul')
+        listItem.textContent = randomPirate
+        displayList.appendChild(listItem);
     })
 });
