@@ -37,6 +37,7 @@ function getRandomPirate(pirates){
 
 summonPirate.addEventListener('click', () => {
     getPiratesData().then( pirates => {
+    
         let randomPirate = getRandomPirate(pirates);
         console.log(randomPirate);
 
@@ -60,14 +61,48 @@ summonPirate.addEventListener('click', () => {
         displayList.innerText = '';
 
         for (let i = 0; i < crewList.length; i++) {
-            let listItem = document.createElement('ul');
-            listItem.textContent = `${crewList[i].firstName} ${crewList[i].lastName} ${crewList.email} ${crewList.slackEmail}`;
-            displayList.appendChild(listItem);
+            createElement();
+          
+            let listItem2 = document.createElement('li');
+            let listItem3 = document.createElement('p');
+            let listItem4 = document.createElement('p');
+            let listItem5 = document.createElement('p');
+           
+            listItem2.textContent = `First Name: ${crewList[i].firstName}` 
+            listItem3.textContent = `Last Name: ${crewList[i].lastName}`
+            listItem4.textContent = `Transponder Snail: ${crewList[i].email}` 
+            listItem5.textContent = `Other Transponder Snail: ${crewList[i].slackEmail}`;
+           
+            listItem2.className = "mt-3"
+            listItem3.className = "p-0 m-0";
+            listItem4.className = "p-0 m-0";
+            listItem5.className = "p-0 m-0";
+
+            displayList.appendChild(listItem2);
+            displayList.appendChild(listItem3);
+            displayList.appendChild(listItem4);
+            displayList.appendChild(listItem5);
         }
       
     
     })
 });
 
-function createElement(){}
+function createElement(){
+    let pTag1 = document.createElement('p');
+    let pTag2 = document.createElement('p2');
+    let pTag3 = document.createElement('p3');
+    let pTag4 = document.createElement('p4');
+    pTag1.textContent = crewList.firstName;
+    pTag2.textContent = crewList.lastName;
+    pTag3.textContent = crewList.email;
+    pTag4.textContent = crewList.slackEmail;
+    elementHere.appendChild(pTag1)
+    elementHere.appendChild(pTag2)
+    elementHere.appendChild(pTag3)
+    elementHere.appendChild(pTag4)
+
+}
+
+createElement();
 

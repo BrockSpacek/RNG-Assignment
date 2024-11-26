@@ -1,5 +1,10 @@
 body{
-    background-image: url(../assets/Going+Merry+2.jpg);
+    background-image: url(../assets/monkey_d__luffy_in_black_background_hd_one_piece-1920x1080.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+}
+
+.text-font{
+    font-family: sans-serif;
+    color: white
 }
