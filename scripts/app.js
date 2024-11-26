@@ -40,7 +40,13 @@ summonPirate.addEventListener('click', () => {
         crewList.push(randomPirate)
 
         let listItem = document.createElement('ul')
-        listItem.textContent = randomPirate
+        listItem.textContent = `${randomPirate.firstName} ${randomPirate.lastName}`
         displayList.appendChild(listItem);
+    
     })
 });
+
+function createElement(){
+
+}
+
