@@ -2,131 +2,203 @@
     "pirates": [
         {
             "firstName": "Mike",
-            "lastName": "Heckerman"
+            "lastName": "Heckerman",
+            "slackEmail": "mheckerman@codestack.co",
+            "email": "mkheck13@gmail.com"
         },
         {
             "firstName": "Roy",
-            "lastName": "Cade III"
+            "lastName": "Cade III",
+            "slackEmail": "rcade@codestack.co",
+            "email": "roytreslll@gmail.com"
+            
         },
         {
             "firstName": "Santiago",
-            "lastName": "Montanez"
+            "lastName": "Montanez",
+            "slackEmail": "smontanez@codestack.co",
+            "email": "santiagomm44@gmail.com"
+            
         },
         {
             "firstName": "Chainarung",
-            "lastName": "Dechyothin"
+            "lastName": "Dechyothin",
+            "slackEmail": "cdechyothin@codestack.co",
+            "email": "cdechyothin@gmail.com"
         },
         {
             "firstName": "Mason",
-            "lastName": "Quilon"
+            "lastName": "Quilon",
+            "slackEmail": "mquilon@codestack.co",
+            "email": "Quilonmason@gmail.com"
         },
         {
             "firstName": "Darryl",
-            "lastName": "Patton"
+            "lastName": "Patton",
+            "slackEmail": "DPatton@codestack.co",
+            "email": "DLamarPatton@gmail.com"
         },
         {
             "firstName": "Juan",
-            "lastName": "Heredia"
+            "lastName": "Heredia",
+            "slackEmail": "jheredia@codestack.co",
+            "email": "madnes0205@gmail.com"
         },
         {
             "firstName": "Brock",
-            "lastName": "Spacek"
+            "lastName": "Spacek",
+            "slackEmail": "bspacek@codestack.co",
+            "email": "brockspacek1@gmail.com"
         },
         {
             "firstName": "Kassandra",
-            "lastName": "Spacek"
+            "lastName": "Spacek",
+            "slackEmail": "kspacek@codestack.co",
+            "email": "kassiespacek101@gmail.com"
         },
         {
             "firstName": "Ian",
-            "lastName": "Chesley"
+            "lastName": "Chesley",
+            "slackEmail": "ichesley@codestack.co",
+            "email": "ianchesley@yahoo.com"
         },
         {
             "firstName": "Alexander",
-            "lastName": "Soria"
+            "lastName": "Soria",
+            "slackEmail": "asoria@codestack.co",
+            "email": "yoda4115@gmail.com"
         },
         {
             "firstName": "Anthony",
-            "lastName": "Duran"
+            "lastName": "Duran",
+            "slackEmail": "aduran@codestack.co",
+            "email": "anthonyaduran6@gmail.com"
         },
         {
             "firstName": "Andrew",
-            "lastName": "Sayasing"
+            "lastName": "Sayasing",
+            "slackEmail": "asayasing@codestack.co",
+            "email": "gettosheep56@gmail.com"
         },
         {
             "firstName": "Robert",
-            "lastName": "Grijalva"
+            "lastName": "Grijalva",
+            "slackEmail": "rgrijalva@codestack.co",
+            "email": "grijrob07@gmail.com"
         },
         {
             "firstName": "Nolan",
-            "lastName": "Parker"
+            "lastName": "Parker",
+            "slackEmail": "nparker@codestack.co",
+            "email": "nolanrparker@gmail.com"
         },
         {
             "firstName": "Thao",
-            "lastName": "Vang"
+            "lastName": "Vang",
+            "slackEmail": "tvang@codestack.co",
+            "email": "vangt39@gmail.com"
         },
         {
             "firstName": "Aaron",
-            "lastName": "Robinson"
+            "lastName": "Robinson",
+            "slackEmail": "arobinson@codestack.co",
+            "email": "aarmon5@gmail.com"
         },
         {
             "firstName": "David",
-            "lastName": "Monterrosa"
+            "lastName": "Monterrosa",
+            "slackEmail": "dmonterrosa@codestack.co",
+            "email": "dmonterrosa99@gmail.com"
         },
         {
             "firstName": "Karen-anne",
-            "lastName": "Cadavos"
+            "lastName": "Cadavos",
+            "slackEmail": "kcadavos@codestack.co",
+            "email": "karencadavos@gmail.com"
         },
         {
             "firstName": "Tanush",
-            "lastName": "Kumar"
+            "lastName": "Kumar",
+            "slackEmail": "tkumar@codestack.co",
+            "email": "nush8653@gmail.com"
         },
         {
             "firstName": "Bowen",
-            "lastName": "Henry"
+            "lastName": "Henry",
+            "slackEmail": "bhenry@codestack.co",
+            "email": "bhenry3145@gmail.com"
         },
         {
             "firstName": "Alan",
-            "lastName": "Batres"
+            "lastName": "Batres",
+            "slackEmail": "abatres@codestack.co",
+            "email": "alanbatres328@gmail.com"
         },
         {
             "firstName": "Gianpaolo",
-            "lastName": "Reinares"
+            "lastName": "Reinares",
+            "slackEmail": "greinares@codestack.co",
+            "email": "gprcards@gmail.com"
         },
         {
             "firstName": "Josue",
-            "lastName": "Rosales"
+            "lastName": "Rosales",
+            "slackEmail": "jrosales@codestack.co",
+            "email": "Josue04Rosales@gmail.com"
         },
         {
             "firstName": "Andrie",
-            "lastName": "Amor"
+            "lastName": "Amor",
+            "slackEmail": "aamor@codedstack.co",
+            "email": "amorandrie5@gmail.com"
         },
         {
             "firstName": "Bronel",
-            "lastName": "Lazar"
+            "lastName": "Lazar",
+            "slackEmail": "blazar@codestack.co",
+            "email": "bronellazar@gmail.com"
         },
         {
             "firstName": "Angel",
-            "lastName": "Cuevas"
+            "lastName": "Cuevas",
+            "slackEmail": "acuevas@codestack.co",
+            "email": "aocuevas123@gmail.com"
         },
         {
-            "firstName": "Chris-Wells-Hott",
-            "lastName": "Heckerman"
+            "firstName": "Chris",
+            "lastName": "Wells-Hott",
+            "slackEmail": "cwellshott@codestack.co",
+            "email": "cwellshott@gmail.com"
+        },
+        {
+            "firstName": "Charles",
+            "lastName": "Orr",
+            "slackEmail": "corr@codestack.co",
+            "email": "Chas2687@gmail.com"
         },
         {
             "firstName": "Ken",
-            "lastName": "Martinez"
+            "lastName": "Martinez",
+            "slackEmail": "kmartinez@codestack.co",
+            "email": "kmartinez@sjcoe.net"
         },
         {
             "firstName": "Bryan",
-            "lastName": "Stewart"
+            "lastName": "Stewart",
+            "slackEmail": "bstewart@codestack.co",
+            "email": "bstewart@sjcoe.net"
         },
         {
             "firstName": "Isaiah",
-            "lastName": "Ferguson"
+            "lastName": "Ferguson",
+            "slackEmail": "iferguson@codestack.co",
+            "email": "iferguson@sjcoe.net"
         },
         {
             "firstName": "Jacob",
-            "lastName": "The Jacoozy God"
+            "lastName": "The Jacoozy God",
+            "slackEmail": "jdekok@codestack.co",
+            "email": "jdekok@sjcoe.net"
         }
 
 
